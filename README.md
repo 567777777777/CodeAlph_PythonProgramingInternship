@@ -1,5 +1,7 @@
 Internship Details:
+
 Company: [Code_Alpha]
+
 Description: Gain practical experience in Python programming and development through hands-on tasks.
 
 Task 1: Hangman Game
